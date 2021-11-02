@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./src/assets/repo/banner-ignite.png"
+    src="./assets/repo/banner-ignite.png"
     width="450"
     height="190"
     style="border-radius:10px"
